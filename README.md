@@ -9,16 +9,13 @@ This is a tool to help track your stock investments and monitor their performanc
     git clone https://github.com/yihong1120/stock-investment-tracker
     cd stock-investment-tracker
 
-
 2. Install the required libraries:
 
     pip install -r requirements.txt
 
-
 3. Run the script:
 
     python run.py
-
 
 ## Usage
 
