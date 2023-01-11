@@ -7,6 +7,7 @@ This is a tool to help track your stock investments and monitor their performanc
 1. Clone the repository and navigate to the directory:
 
     git clone https://github.com/yihong1120/stock-investment-tracker
+    
     cd stock-investment-tracker
 
 2. Install the required libraries:
